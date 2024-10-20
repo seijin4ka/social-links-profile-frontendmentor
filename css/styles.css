@@ -95,6 +95,11 @@ body {
     margin-bottom: 15px;
 }
 
+.card__link-item:hover {
+    background-color: var(--green);
+    color: var(--gray900);
+}
+
 @media screen and (max-width: 375px) {
 
     .card {
